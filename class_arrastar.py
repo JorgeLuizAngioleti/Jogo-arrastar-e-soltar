@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 import turtle
 import math
 #config. janela
@@ -96,7 +96,6 @@ while 1:
 		print('afastou')	
 
 janela.mainloop()
-=======
 import turtle
 import math
 #config. janela
@@ -194,4 +193,4 @@ while 1:
 		print('afastou')	
 
 janela.mainloop()
->>>>>>> 9ce983264cfeb513e954ddde2dc07df198dca88f
+
